@@ -1,4 +1,4 @@
-![https://www.tke-esports.tk/server](/logo.png)
+![https://www.tke-esports.tk/server](/logo_text.png)
 
 
 [Website](https://www.tke-esports.tk?from=github) | [Discord](https://www.tke-esports.tk/redirect?from=github&url=https://discord.gg/Vgd5vMn) | [Twitter](https://www.tke-esports.tk/redirect?from=github&url=https://twitter.com/TIMEKEEPERS0) | [Youtube](https://www.tke-esports.tk/redirect?from=github&url=https://www.youtube.com/channel/UCLR40w4ybZ8abGF-AyhGbNg) | [Instagram](https://www.tke-esports.tk/redirect?from=github&url=https://www.instagram.com/timekeepers0)
