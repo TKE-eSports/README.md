@@ -1,7 +1,7 @@
 ![https://www.tke-esports.tk/server](/logo_text.png)
 
 
-[Website](https://www.tke-bot.tk?from=github) | [Discord](https://www.tke-bot.tk/redirect?from=github&url=https://discord.gg/Vgd5vMn) | [Twitter](https://www.tke-bot.tk/redirect?from=github&url=https://twitter.com/TIMEKEEPERS0) | [Instagram](https://www.tke-bot.tk/redirect?from=github&url=https://www.instagram.com/timekeepers0)
+[Website](https://www.tke-espoorts.tk?from=github) | [Discord](https://www.tke-espoorts.tk/redirect?from=github&url=https://discord.gg/Vgd5vMn) | [Twitter](https://www.tke-espoorts.tk/redirect?from=github&url=https://twitter.com/TIMEKEEPERS0) | [Instagram](https://www.tke-espoorts.tk/redirect?from=github&url=https://www.instagram.com/timekeepers0)
 
 All projects by TKE are close source, but we can give you access to them on request.
 
