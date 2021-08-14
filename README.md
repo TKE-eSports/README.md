@@ -1,4 +1,4 @@
-![https://www.tke-esports.tk/server](https://www.tke-esports.tk/static/images/logo_text.png)
+![https://www.tke-esports.tk/server](/logo_text.png)
 
 
 > [Website](https://www.tke-bot.tk?from=github)
