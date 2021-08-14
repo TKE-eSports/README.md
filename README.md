@@ -9,7 +9,7 @@ To request for the same, kindly contact `Jordaar#5819` in [TKE Discord Server](h
 
 ## Author
 
-**ScripTS Bot** © [ScripTS](https://github.com/Jordaar/ScripTS/graphs/contributors).  
+**TKE eSports** © [TKE eSports](https://github.com/orgs/TKE-eSports/people).  
 Authored and maintained by Jordaar & contributors.
 
 > GitHub [@Jordaar](https://github.com/Jordaar)
