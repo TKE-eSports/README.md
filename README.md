@@ -11,7 +11,9 @@ To request for the same, kindly contact `Jordaar#5819` in [TKE Discord Server](h
 <summary>Current Projects</summary>
 <br>
 [TKE Website](https://www.tke-esports.tk) - A static one page website for TIMEKEEPERS ESPORTS. (WIP!)
+  
 [TKE Bot](https://discord.com/channels/@me/741953879175987251) - Private discord bot for TIMEKEEPERS ESPORTS.
+  
 [TKE Bot Web Server](https://www.tke-esports.tk/bot) - A web-server for TKE Bot.
 </details>
 
