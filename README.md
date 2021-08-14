@@ -1,2 +1,14 @@
-# README.md
-Information about TIMEKEEPERS ESPORTS
+![https://www.tke-esports.tk/server](https://www.tke-esports.tk/static/images/logo_text.png)
+
+
+> [Website](https://www.tke-bot.tk?from=github)
+
+> [Discord](https://www.tke-bot.tk/redirect?from=github&url=https://discord.gg/Vgd5vMn)
+
+> [Twitter](https://www.tke-bot.tk/redirect?from=github&url=https://twitter.com/TIMEKEEPERS0)
+
+> [Instagram](https://www.tke-bot.tk/redirect?from=github&url=https://www.instagram.com/timekeepers0)
+
+All projects by TKE are close source, but can we can give you access to them on request.
+
+To request for the same, kindly contact `Jordaar#5819` in [TKE Discord Server](https://discord.gg/Vgd5vMn)
