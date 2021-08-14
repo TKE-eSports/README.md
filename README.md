@@ -11,4 +11,4 @@
 
 All projects by TKE are close source, but can we can give you access to them on request.
 
-To request for the same, kindly contact `Jordaar#5819` in [TKE Discord Server](https://discord.gg/Vgd5vMn)
+To request for the same, kindly contact `Jordaar#5819` in [TKE Discord Server](https://discord.gg/Vgd5vMn).
